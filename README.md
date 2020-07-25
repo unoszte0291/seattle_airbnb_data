@@ -1,4 +1,4 @@
-# seattle_airbnb_data
+# Seattle AirBnb Data Analysis
 <br>
 1. Installations<br>
 Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.<br>
