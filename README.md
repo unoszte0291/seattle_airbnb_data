@@ -4,15 +4,13 @@
 Anaconda, numpy, pandas, matplotlib, seaborn, sklearn.linear_model, sklearn.model_selection, sklearn.metrics<br>
 <br>
 2. Project Motivation<br>
-I try to find some clues which become the owner of accommodation with Airbnb in Seattle<br>
+I try to find some clues which become the owner of accommodation with Airbnb in Seattle.<br>
 <br>
 3. File Descriptions<br>
- Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.<br>
+ By analyzing the data obtained from this site, I decided to find out what type of accommodation has a high rating.<br>
+ https://www.kaggle.com/airbnb/seattle/data
  <br>
 4. How to Interact with your project<br>
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?<br>
+You can check out my project here. I would like to get some feedback.
 <br>
-5. Licensing, Authors, Acknowledgements, etc.<br>
-You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.<br>
-<br>
-You can use this to assist as a template for your own post.<br>
+Thank you.
