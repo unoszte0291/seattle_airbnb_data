@@ -1,10 +1,10 @@
 # Seattle AirBnb Data Analysis
 <br>
 1. Installations<br>
-Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.<br>
+Anaconda, numpy, pandas, matplotlib, seaborn, sklearn.linear_model, sklearn.model_selection, sklearn.metrics<br>
 <br>
 2. Project Motivation<br>
-Discuss what your project is about, and what interested you in pursuing the project.<br>
+I try to find some clues which become the owner of accommodation with Airbnb in Seattle<br>
 <br>
 3. File Descriptions<br>
  Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.<br>
