@@ -8,9 +8,9 @@ I try to find some clues which become the owner of accommodation with Airbnb in 
 <br>
 3. File Descriptions<br>
  By analyzing the data obtained from this site, I decided to find out what type of accommodation has a high rating.<br>
- https://www.kaggle.com/airbnb/seattle/data
+ https://www.kaggle.com/airbnb/seattle/data<br>
  <br>
 4. How to Interact with your project<br>
-You can check out my project here. I would like to get some feedback.
+You can check out my project here. I would like to get some feedback.<br>
 <br>
 Thank you.
