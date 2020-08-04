@@ -12,5 +12,9 @@ I try to find some clues which become the owner of accommodation with Airbnb in 
  <br>
 4. How to Interact with your project<br>
 You can check out my project here. I would like to get some feedback.<br>
+5. My blog post<br>
+<br>
+This is my blog post link here.<br>
+https://medium.com/@ysdudon29/what-type-of-accommodation-is-better-for-a-owner-in-seattle-26619a0045f9
 <br>
 Thank you.
