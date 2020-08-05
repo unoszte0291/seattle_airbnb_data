@@ -15,6 +15,6 @@ You can check out my project here. I would like to get some feedback.<br>
 <br>
 5. My blog post<br>
 This is my blog post link here.<br>
-https://medium.com/@ysdudon29/what-type-of-accommodation-is-better-for-a-owner-in-seattle-26619a0045f9<br>
+https://medium.com/@unoszte0291/what-type-of-accommodation-is-better-for-a-owner-in-seattle-26619a0045f9<br>
 <br>
 Thank you.<br>
